@@ -283,7 +283,7 @@ class CameraViewController: UIViewController {
         )
         
         cancelBtn.backgroundColor = UIColor(hex: "e5f1ff")
-        cancelBtn.setTitle("직접입력", for: .normal)
+        cancelBtn.setTitle("اغلاق", for: .normal)
         cancelBtn.setTitleColor(UIColor(hex: "0075ff"), for: .normal)
         cancelBtn.titleLabel?.font = .systemFont(ofSize: 14)
         
