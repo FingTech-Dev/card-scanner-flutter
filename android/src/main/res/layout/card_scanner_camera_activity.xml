@@ -28,7 +28,7 @@
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="카드 등록하기"
+            android:text="فحص البطاقة"
             android:textSize="20dp"
             android:textColor="#ff191919"
             app:layout_constraintBottom_toBottomOf="parent"
@@ -69,7 +69,7 @@
                     android:layout_marginBottom="16dp"
                     android:gravity="center"
                     android:lineSpacingExtra="6sp"
-                    android:text="사각형에 카드를 맞춰주세요.\n스캔이 오래걸리는 경우 직접 입력해주세요."
+                    android:text="الرجاء ادخال البطاقة داخل المربع لمسح البيانات"
                     android:textAlignment="center"
                     android:textColor="#ffffff"
                     android:textSize="16sp" />
@@ -133,7 +133,7 @@
                     android:lineSpacingExtra="6sp"
                     android:paddingHorizontal="16dp"
                     android:paddingVertical="8dp"
-                    android:text="직접입력"
+                    android:text="أغلاق"
                     android:textAlignment="center"
                     android:textColor="#0075ff"
                     android:textSize="16sp" />
